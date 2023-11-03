@@ -1,0 +1,74 @@
+
+article{
+    width: 100%;
+    height: auto;
+}
+
+.Banner{
+    width: 100%;
+    height: 250px;
+    background-image: url('../img/fundobanner.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-bottom:  #a5a1a1 solid 1px;
+    
+}
+
+p{
+    color: rgb(153, 153, 153);
+}
+
+
+.Caixatexto{
+    padding-top: 100px;
+    padding-left: 60px;
+}
+
+.Caixaprodutos{
+   background-color: #fff;
+   width: 95%;
+   height: auto;
+   margin: auto;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-around;
+   padding-top: 120px;
+
+   
+}
+
+.Areaproduto{
+    width: 22%;
+    height: 400px;
+    background-color: #fff;
+    margin: 20px;
+    text-align: start;
+
+}
+
+.Areaproduto img{
+    background-color: rgb(246, 246, 246);
+    width: 100%;
+    height: 300px;
+    
+}
+
+h5{
+    font-size: 17px;
+    font-weight: 600;
+    color: rgb(51, 51, 51);
+}
+
+.Areaproduto p{
+    color: rgb(152, 176, 97);
+    font-weight: 700;
+   
+}
+
+h6{
+    color:rgb(102, 102, 102);
+    font-size: 15px;
+    font-weight: 510;
+}
+
+
